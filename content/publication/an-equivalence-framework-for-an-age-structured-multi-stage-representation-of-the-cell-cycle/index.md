@@ -23,7 +23,7 @@ abstract: "We develop theoretical equivalences between stochastic and
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2022-04-06T02:26:26.245Z
