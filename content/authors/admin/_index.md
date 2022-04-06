@@ -5,6 +5,7 @@ interests:
   - Algorithm Development
   - Cell Movement and Migration
   - Stochastic Simulation
+  - Mathematical Pedagogy
 social:
   - icon: envelope
     icon_pack: fas
