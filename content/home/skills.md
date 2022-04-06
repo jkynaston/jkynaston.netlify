@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description:
   icon: rectangle-terminal
-  icon_pack: fas
+  icon_pack: fab
   name: Linux
 - description: 100%
   icon: chart-line
