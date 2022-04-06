@@ -1,5 +1,6 @@
 ---
 role: PhD Mathematical Biology
+avatar_filename: me.jpg
 bio: My research interests include
 interests:
   - Algorithm Development
