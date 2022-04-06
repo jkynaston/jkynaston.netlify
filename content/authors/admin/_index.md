@@ -1,8 +1,10 @@
 ---
 role: PhD Mathematical Biology
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests: []
+bio: My research interests include
+interests:
+  - Algorithm Development
+  - Cell Movement and Migration
+  - Stochastic Simulation
 social:
   - icon: envelope
     icon_pack: fas
