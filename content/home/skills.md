@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Just linux stuff
-  icon: rectangle-terminal
+  icon: terminal
   icon_pack: fas
   name: Linux
 - description: 100%
