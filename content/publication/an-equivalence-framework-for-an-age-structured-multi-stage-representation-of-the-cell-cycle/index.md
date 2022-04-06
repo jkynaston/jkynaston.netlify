@@ -21,7 +21,7 @@ abstract: "We develop theoretical equivalences between stochastic and
   More generally, this methodology may be extended to myriad reaction-diffusion
   processes for which the age of individuals is relevant to the dynamics. "
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
