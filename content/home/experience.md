@@ -26,24 +26,19 @@ experience:
     company: University of Bath
     company_url: ''
     company_logo: ''
-    location: California
+    location: Bath
     date_start: '2016-08-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Teaching MATLAB and Python to first-year mathematics undergraduates.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Undergraduate Research Intern
+    company: University of Bath
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Bath
+    date_start: '2016-06-01'
+    date_end: '2016-09-01'
+    description: Undergraduate summer research project. Supervised by Dr. Matthew Roberts.
 
 design:
   columns: '2'
